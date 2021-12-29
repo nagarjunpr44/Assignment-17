@@ -1,0 +1,22 @@
+.main {
+    
+    display: inline-block;
+    border: 1px solid red;
+    font-size: 50px;
+    margin: 50px;
+    padding: 40px;
+    width: 60%;
+    margin-left:320px;
+    font-family:  Courier, monospace;
+    font-style: bold;
+
+}
+#textt
+{
+    margin-left: 420px;
+}
+#message
+{
+    margin-left: 220px;
+    text-transform: uppercase;
+}
